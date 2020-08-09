@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\ads.cs">
+    <Files>
+      <File FileName="Assets\Script\lasercodepls.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\LanguageScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\enemyai.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\arraybutton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Language.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\choosenlanguage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\itsimposible.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\randomlevelslogicorganized.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Followcamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Fan.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ads.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

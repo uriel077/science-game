@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/scenas/levels/level13ExorGate.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 159b3fdf50826c744b1983b1de23bfb4
+timeCreated: 1492859439
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - wall: {fileID: 1257603637921744, guid: 5ce0ae95185c0354fbe0755dc5bfa207, type: 2}
+  - finish: {instanceID: 0}
+  - player: {instanceID: 0}
+  - fan: {fileID: 1600610569351814, guid: 1071e7ced68065040a76342b576928d3, type: 2}
+  - magnetp: {fileID: 1214874543381102, guid: e9184eabd03c645498f5655cd10006fe, type: 2}
+  - magnetm: {fileID: 1613952046594262, guid: f013ea48b6b0a1849a461d9b72794ffd, type: 2}
+  - pendulum: {fileID: 1807342597970762, guid: 126fd6ef45e73ad448881397f7957844, type: 2}
+  - block: {fileID: 1237515792673452, guid: 254e2aa2ef568984e8f0e3396be7ae31, type: 2}
+  - water: {fileID: 1587801839022146, guid: 4c3c809b044f056458669f6b4ef14d44, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

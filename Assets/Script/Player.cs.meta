@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 546617198d96b204ab2ea55f6a8b5785
+timeCreated: 1496385429
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - leftBox: {instanceID: 0}
+  - rightBox: {instanceID: 0}
+  - menu: {instanceID: 0}
+  - exit: {instanceID: 0}
+  - next: {instanceID: 0}
+  - endtext: {instanceID: 0}
+  - parachute: {fileID: 4654259296625032, guid: 9e8d6af190d36ba4188548b430f9ff4d,
+      type: 2}
+  - bparachute: {fileID: 1597901106558436, guid: ae5d01ac1647665458e77fa618289602,
+      type: 2}
+  - bshoot: {fileID: 1515030500796756, guid: 3285374fb51d579428e0742a70a91689, type: 2}
+  - panelToAttachButtonsTo: {instanceID: 0}
+  - projectile: {fileID: 1556660151374272, guid: 3fc0bfb9682002341b2ee922d49e5223,
+      type: 2}
+  - bulletcase: {fileID: 1678697066060892, guid: c51b1fee71ef06849941a30a23151d6b,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
